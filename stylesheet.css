@@ -1,0 +1,26 @@
+.cell{
+        height:20px;
+  width:20px;
+        border-radius:100%;
+	margin:2px;
+        border:1px solid black;
+        text-align: center;
+}
+
+#head{
+       background-color:blue;   
+}
+
+
+#food{
+       background-color:green;   
+}
+
+
+#tail{
+       background-color:red;   
+}
+
+#wall{
+background-color:black;
+}
